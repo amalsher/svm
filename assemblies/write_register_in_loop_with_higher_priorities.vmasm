@@ -1,0 +1,5 @@
+mov a 2
+mov b 10
+int 1
+mov a 42
+jmp -2
